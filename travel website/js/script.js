@@ -53,3 +53,5 @@ var swiper = new Swiper(".review-slider", {
         el: ".swiper-pagination",
     },
 });
+
+// web dev mr.GIYOSIDIN
