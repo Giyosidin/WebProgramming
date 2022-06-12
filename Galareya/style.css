@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+.container{
+    border: #fff solid 3px;
+    background-color: #fff;
+}
+
+.imgs{
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);
+    grid-gap:3px;
+}
+.imgs img{
+    width: 100%;
+}
+
+.main-img img{
+    border-top: #fff solid 3px;
+    width: 100%;
+}
