@@ -196,6 +196,7 @@ body {
     border-radius: 4px;
     color: #088178;
     background-color: #fddde4;
+    cursor: pointer;
 }
 #feature .fe-box h6:nth-child(2){
     background-color: #cdebbc;
